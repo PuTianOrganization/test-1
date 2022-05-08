@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>格式化标签</title>
+	</head>
+	<body>
+		你好<br />
+		<font color="red" size="5" face="楷体">你好</font>
+		<br />
+		Hello World!
+		<pre>
+		Hello       
+		World!
+		</pre>
+		<br />
+		粗体 -- <b>粗体</b> <strong>粗体</strong> <br />
+		斜体 -- <i>斜体</i> <br />
+		下划线 -- <u>下划线</u> <br />
+		中划线 --<del> 中划线</del> <br />
+		下标 -- H<sub>2</sub>O <br />
+		上标 -- 2<sup>2</sup>
+	</body>
+</html>
